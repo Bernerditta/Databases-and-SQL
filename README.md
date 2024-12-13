@@ -20,9 +20,9 @@ In this project, I dived into the **world.db SQL dataset** to create a fully fun
   
 Here’s the **sql queries** showing how the functions were used :
 
-![sql queries](![image](https://github.com/user-attachments/assets/39de316d-e08b-4f87-89e1-f80a4da8e9a1)
+![sql queries](![Screenshot 2024-12-12 124747](https://github.com/user-attachments/assets/fab203ec-df02-4107-b977-53329c0f4943)
 )
-)
+
 
 
 ## 🌟 What You’ll Find
@@ -35,7 +35,8 @@ Here’s the **sql queries** showing how the functions were used :
 ### EER Diagram
 Here’s the **EER Diagram** showing how the tables are related:
 
-![EER Diagram](![image](https://github.com/user-attachments/assets/1faf8485-8fae-44be-a33e-ba6562af3375)
+![EER Diagram](![Screenshot 2024-12-12 123945](https://github.com/user-attachments/assets/01fbe1ca-97b2-4c4d-a9d2-4b3ee2196b8a)
+)
 )
 
 ## 🚀 How to Explore
